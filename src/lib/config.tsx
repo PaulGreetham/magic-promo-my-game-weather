@@ -268,30 +268,6 @@ export const siteConfig = {
         </span>
       ),
     },
-    {
-      question: "Is MGW available for both iOS and Android?",
-      answer: (
-        <span>
-          Yes, MGW is available for both iOS and Android. Go to the top of the page for both the iOS and Android download links.
-        </span>
-      ),
-    },
-    {
-      question: "What's the difference between the free and paid versions?",
-      answer: (
-        <span>
-          The free Universal version gives you complete access to all weather data and features. Our paid plans (Supporter, Season Ticket, and Ultra) simply remove advertisements from the experience. All core weather features are available in every plan.
-        </span>
-      ),
-    },
-    {
-      question: "How can I provide feedback or report issues with the app?",
-      answer: (
-        <span>
-          We welcome your feedback! You can contact us directly at info@mgw.football or reach out via our social media channels. We're constantly working to improve the app and value user suggestions for new features and improvements.
-        </span>
-      ),
-    },
   ],
   footer: [
     {
