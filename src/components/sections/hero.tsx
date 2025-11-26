@@ -83,7 +83,7 @@ export function Hero() {
               />
             </motion.a>
             
-            <motion.a
+            {/* <motion.a
               href="https://play.google.com/store/apps/details?id=com.mygameweather.app"
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
@@ -97,7 +97,7 @@ export function Hero() {
                 alt="Get it on Google Play" 
                 className="h-full w-auto"
               />
-            </motion.a>
+            </motion.a> */}
           </div>
         </div>
         <div className="flex flex-nowrap items-center justify-center gap-4 sm:gap-8 h-auto sm:h-[500px] select-none">
